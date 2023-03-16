@@ -1,4 +1,4 @@
-name: golang-ci/cd-pipeline
+name: go-cicdpipeline
 on: push
 jobs:
   test:
